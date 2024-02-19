@@ -1,2 +1,2 @@
 # cofeesales
-This repository contains excel analysis of cofee sales in three different countries; United Kingdom, Ireland and USA.
+This repository contains an Excel sales analysis of four different types of coffee in three countries; the United Kingdom, Ireland, and the USA.
